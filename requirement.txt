@@ -1,0 +1,8 @@
+torch
+transformers
+diffusers
+accelerate
+gradio
+soundfile
+ffmpeg-python
+librosa
